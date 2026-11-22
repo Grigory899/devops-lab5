@@ -39,4 +39,3 @@ jobs:
           name: devops-lab5-${{ steps.shortsha.outputs.sha }}
           path: dist/
           retention-days: 7
-
